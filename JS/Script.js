@@ -1,12 +1,11 @@
-var sayMyName = function (name) {
-	alert('My name is: ' +name);
-}
-
 <!DOCTYPE html>
 <html>
 <head>
 	<title>JS Rockets</title>
 	<script type="text/javascript">
+		var sayMyName = function (name) {
+			alert('My name is: ' +name);
+		}
 		var car = {
 			make: 'VW',
 			type: 'Polo',
