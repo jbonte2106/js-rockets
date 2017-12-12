@@ -1,11 +1,11 @@
 body{
-	background-color: green;
+	background-color: grey;
 }
 
-.cool {
+.cool{
 	width: 100px;
 	height: 100px;
-	background-color: blue
+	background-color: green
 	transition: background-color 1s;
 }
 
