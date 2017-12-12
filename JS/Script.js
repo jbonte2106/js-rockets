@@ -7,8 +7,8 @@
 </script>
 </head>
 <body>
-	var sayMyName = function (name) {
-			alert('My name is: ' +name);
+	var doCoolStuff = function (cool) {
+			alert('My name is: ' +cool);
 	}
 </body>
 <h1>Hello JS Rockets</h1>
