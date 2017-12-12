@@ -1,3 +1,7 @@
+var sayMyName = function (name) {
+	alert('My name is: ' +name);
+}
+
 <!DOCTYPE html>
 <html>
 <head>
