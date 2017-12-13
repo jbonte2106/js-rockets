@@ -1,3 +1,3 @@
 var changeState = function (state) {
-	document.body.className = 'state1' + state;
+	document.body.className = 'state' + state;
 }
